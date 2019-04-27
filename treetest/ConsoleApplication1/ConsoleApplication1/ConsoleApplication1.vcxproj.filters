@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="treestest.cpp">
+    <ClCompile Include="minvaluetree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
