@@ -1,3 +1,4 @@
 ﻿  source01.cpp
-  test01.vcxproj -> D:\vccode\project1\test01\Debug\test01.exe
-  test01.vcxproj -> D:\vccode\project1\test01\Debug\test01.pdb (Full PDB)
+  LINK : 没有找到 D:\vccode\leetcode\test01\Debug\test01.exe 或上一个增量链接没有生成它；正在执行完全链接
+  test01.vcxproj -> D:\vccode\leetcode\test01\Debug\test01.exe
+  test01.vcxproj -> D:\vccode\leetcode\test01\Debug\test01.pdb (Full PDB)

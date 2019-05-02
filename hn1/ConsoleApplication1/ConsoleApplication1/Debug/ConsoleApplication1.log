@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\vccode\leetcode\hn1\consoleapplication1\consoleapplication1\源.cpp(10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  LINK : 没有找到 D:\vccode\leetcode\hn1\ConsoleApplication1\Debug\ConsoleApplication1.exe 或上一个增量链接没有生成它；正在执行完全链接
+  ConsoleApplication1.vcxproj -> D:\vccode\leetcode\hn1\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\vccode\leetcode\hn1\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
